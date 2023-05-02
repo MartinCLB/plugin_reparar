@@ -1,0 +1,8 @@
+name: Reparar
+version: 1.0
+main: Main
+authors: [Martin]
+depend: [Vault, HolographicDisplays]
+commands:
+  consertar:
+    aliases: [reparar, repair, consert]
